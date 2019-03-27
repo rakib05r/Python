@@ -1,0 +1,6 @@
+x=int(input("Enter 1st number  "))
+y=int(input("Enter 2nd number  "))
+z=int(input("Enter 3rd number  "))
+print("Biggest number among given three number is ")
+print(max(x,y,z))
+input("Press enter to exit")
